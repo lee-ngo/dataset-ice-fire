@@ -37,14 +37,16 @@ We won't be sharing specific steps because it varies per computer.
 
 ### Initialize Jupyter Notebooks in your terminal
 
-You can open up your Command Prompt, Terminal, Git, etc.. Navigate
+You can open up your Command Prompt, Terminal, Git, etc.. 
+
+Navigate
 
 *Why are we using Python instead of R or some other language?*
 Ah, this old debate. Although others have a stronger opinion than I do on the matter, I've just happened to learn most of my data science via Python and discovered a great community around it. Generally, I code in JavaScript or Python, and anyone will tell you that *it doesn't really matter* what you code in as long as you know how to code. 
 
 If there's enough interest in converting this lesson into R or another langauge, perhaps I'll do it... (but probably not).
 
-# MORE UPDATES TO COME!
+*If you've gotten this far, great! You can open up your own Jupyter Notebook or, if you must, use this pre-populated one below.*
 
 ## About this Course's Author
 
@@ -52,5 +54,5 @@ If there's enough interest in converting this lesson into R or another langauge,
 
 You can email him at lee-dot-ngo-at-gmail-dot-com for any further questions.
 
-*Disclaimer: This lesson is entirely open-source, unaffilated with  and intended for educational and entertain purposes. The data used remains unchanged from its initial source out of respect to its author and the inspired material. Please feel free to fork, clone, remake, sample, and enjoy as your please under the MIT License.*
+*Disclaimer: This lesson is entirely open-source, unaffilated with any other entities and intended for educational and entertain purposes. The data used remains unchanged from its initial source out of respect to its author and the inspired material. Please feel free to fork, clone, remake, sample, and enjoy as your please under the MIT License.*
 
