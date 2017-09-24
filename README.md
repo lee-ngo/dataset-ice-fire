@@ -9,7 +9,7 @@ In this course, you will learn the following:
 * Perform some Exploratory Data Analysis (EDA)
 * Complete some Data Visualization
 
-We will be exploring [this dataset](https://github.com/chrisalbon/war_of_the_five_kings_dataset) created for fun by **Chris Albon** ([github.com/chrisalbon](https://github.com/chrisalbon)) (thank you)! Yes, we're going to have a lot of fun with this one.
+We will be exploring [this dataset](https://github.com/chrisalbon/war_of_the_five_kings_dataset) created for fun by **Chris Albon** ([github.com/chrisalbon](https://github.com/chrisalbon))! Yes, we're going to have a lot of fun with this one.
 
 ## What You Need To Know First
 
@@ -48,7 +48,7 @@ We won't be sharing specific steps because it varies per computer.
 
 If a webpage opens that says 'Jupyter' at the top, you're ready to more forward!
 
-*At this point, you can open up your own Jupyter Notebook or, if you must, use this pre-populated one below.*
+*At this point, you can open up your own Jupyter Notebook or, if you must, use this pre-populated one [here](https://github.com/lee-ngo/dataset-ice-fire/blob/master/basic_python_data_science_ice_fire.ipynb).*
 
 *Why are we using Python instead of R or some other language?*
 Ah, this old debate. Although others have a stronger opinion than I do on the matter, I've just happened to learn most of my data science via Python and discovered a great community around it. Generally, I code in JavaScript or Python, and anyone will tell you that *it doesn't really matter* what you code in as long as you know how to code. 
