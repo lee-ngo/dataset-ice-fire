@@ -46,7 +46,7 @@ We won't be sharing specific steps because it varies per computer.
 2. Navigate to the folder/directory where you downloaded this GitHub repository.
 3. Type `jupyter notebook` into the command prompt and wait a moment.
 
-If a webpage opens that says 'Jupyter' at the top, you're ready to more forward!
+If a webpage opens that says 'Jupyter' at the top, you're ready to move forward!
 
 *At this point, you can open up your own Jupyter Notebook or, if you must, use this pre-populated one [here](https://github.com/lee-ngo/dataset-ice-fire/blob/master/basic_python_data_science_ice_fire.ipynb).*
 
